@@ -11,6 +11,9 @@ const Nav = () => {
 			<span className="normalText">
 				A React App for County Fair Hog Fans
 			</span>
+			<br></br>
+			
+			
 		</div>
 	);
 };
